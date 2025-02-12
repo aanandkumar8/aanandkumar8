@@ -19,7 +19,7 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 - **Tools:** VS Code, Git, JIRA, WordPress Plugins, Email Marketing Tools
 - **Design Patterns:** Bootstrap Framework, Responsive Web Design (RWD)
 
-# Key Skills:
+# Specialization:
 - **WordPress Integration and Customization**
 - **WordPress Theme & Plugin Customization**
 - **Landing Page Development**
