@@ -1,9 +1,9 @@
-# 💫 About Me:
+# About Me:
 Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootstrap Framework, Web Page Optimisation, SEO Knowledge
 
 <br>
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="left">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
@@ -24,7 +24,7 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 - **Design Patterns:** Bootstrap Framework, Responsive Web Design (RWD)
 <br>
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/53e7ca86-a31d-45ad-add3-a6c34d0ea411" width="25"> Specialization:
+# Specialization:
 - **WordPress Integration and Customization**
 - **WordPress Theme & Plugin Customization**
 - **Landing Page Development**
@@ -33,9 +33,10 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 
 <br>
 
-# 🌐 Socials:
+# Socials:
 <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 
 <br>
-# ✍️ Random Dev Quote:
+
+# Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
