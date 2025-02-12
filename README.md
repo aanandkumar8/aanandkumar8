@@ -22,5 +22,5 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 - **Newsletter Templates**
 - **Web Page Speed Optimization**
 
-#✍️ Random Dev Quote
+# Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
