@@ -1,6 +1,6 @@
 # 💫 About Me:
 Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootstrap Framework, Web Page Optimisation, SEO Knowledge
-
+<br>
 
 # 💻 Tech Stack:
 <div align="left">
@@ -12,21 +12,21 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </div>
-
+<br/>
 # Proficient in:
 - **Cloud Technologies:** CMS (WordPress), PSD to HTML Conversion, SEO-friendly Website Development
 - **Programming:** HTML, CSS, JavaScript, JQuery, React JS, WordPress
 - **Databases:** WAMP, MySQL
 - **Tools:** VS Code, Git, JIRA, WordPress Plugins, Email Marketing Tools
 - **Design Patterns:** Bootstrap Framework, Responsive Web Design (RWD)
-
+<br>
 # Specialization:
 - **WordPress Integration and Customization**
 - **WordPress Theme & Plugin Customization**
 - **Landing Page Development**
 - **Newsletter Templates**
 - **Web Page Speed Optimization**
-
+<br>
 # 🌐 Socials:
 <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
@@ -41,6 +41,6 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
 
-
+<br>
 # ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
