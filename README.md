@@ -2,7 +2,7 @@
 Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootstrap Framework, Web Page Optimisation, SEO Knowledge
 
 
-#🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandicon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanandkumar8@gmail.com) 
 
 # 💻 Tech Stack:
@@ -22,5 +22,5 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 - **Newsletter Templates**
 - **Web Page Speed Optimization**
 
-# Random Dev Quote:
+# ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
