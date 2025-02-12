@@ -24,7 +24,7 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 - **Design Patterns:** Bootstrap Framework, Responsive Web Design (RWD)
 <br>
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/53e7ca86-a31d-45ad-add3-a6c34d0ea411" width="30"> Specialization:
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/53e7ca86-a31d-45ad-add3-a6c34d0ea411" width="25"> Specialization:
 - **WordPress Integration and Customization**
 - **WordPress Theme & Plugin Customization**
 - **Landing Page Development**
