@@ -34,9 +34,8 @@ Experienced With HTML, CSS, Jquery, JS, WordPress, Responsive Web Design, Bootst
 <br>
 
 # Socials:
-[![First Image](https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif)](#)
-[![Second Image](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://in.linkedin.com/in/anandicon)
-
+<a href="#"> <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"> </a> 
+<a href="https://in.linkedin.com/in/anandicon"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 <br>
 
 # Random Dev Quote:
